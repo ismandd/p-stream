@@ -14,7 +14,6 @@
     "preview": "vite preview",
     "lint": "eslint src",
     "lint:fix": "eslint --fix src",
-    "preinstall": "npx -y only-allow pnpm"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
